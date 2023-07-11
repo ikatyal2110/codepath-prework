@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 Additional functionality:
 - There is another button that would change the labels' text color to a random color
-- Clicking the buttons triggers a sound effect
+- Clicking the buttons trigger a sound effect
  
 ## Video Walkthrough
 
@@ -31,7 +31,11 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
+    Favourite App features:
+    - iMessage: while iMessage now allows you to delete your message within a few minutes of sending the message, my favourite feature is the fact that even after sending the message, you can edit the sent message in case you had a spelling error instead of deleting it. 
+    - IOS Photos app: one feature I find very handy is that if you take a picture of an object like a coffee mug, or just of a person, you can select the object out of the picture and save it as a separate PNG. 
+    - Transit app: transit is an app used at the University of Maryland, College Park that allows users to track bus routes and it gives real time locations on the bus. My favourite app feature is the fact that once you hop onto your bus, you can provide other people with real time information. For example, you can improve the accuracy of the app by letting it know if you reached in the amount of time the app specified. You can let other people know how crowded the bus is, or if its a little late on its route, and the more helpful you are as a passenger, the more points the app rewards you with. 
+    - 
 ## Notes
 
 Describe any challenges encountered while building the app.
