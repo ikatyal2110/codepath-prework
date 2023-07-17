@@ -32,7 +32,7 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
     Favourite App features:
-    - iMessage: while iMessage now allows you to delete your message within a few minutes of     sending the message, my favourite feature is the fact that even after sending the   
+    - iMessage: while iMessage now allows you to delete your message within a few minutes of       sending the message, my favourite feature is the fact that even after sending the   
         message, you can edit the sent message in case you had a spelling error instead of  
         deleting it. 
     - IOS Photos app: one feature I find very handy is that if you take a picture of an object   
