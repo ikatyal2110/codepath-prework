@@ -56,7 +56,7 @@ GIF created with ...
         office, US Customs, or you need to identify yourself, TravlBuddy's got you covered. 
         Download Travl Buddy to join the digital revolution, and lets get digital with our travel. 
     
-        ![Logo](https://i.ibb.co/ZY4bH4c/Screenshot-2023-07-17-at-09-50-18.png)
+        ![Logo](https://ibb.co/RBrJhrQ)
 ## Notes
 
 Describe any challenges encountered while building the app.
