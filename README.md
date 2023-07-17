@@ -48,7 +48,7 @@ GIF created with ...
         passenger, the more points the app rewards you with. 
     
     My App Idea/ Elevator Pitch
-        Introducting Travl Buddy, the innovative app that digitalizes all your essential travel 
+        Introducting Travl Buddy, the innovative app that digitalizes all your essential travel  
         documents, revolutionizing the way you stay travel-ready. With just a few taps and scans, 
         securely store and manage your passports, green cards, driver's licenses, and more. Say 
         goodbye to the stress of physical documents and welcome a more convenient and efficient 
