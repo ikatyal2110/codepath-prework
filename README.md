@@ -40,17 +40,23 @@ GIF created with ...
         like a coffee mug, or just of a person, you can select the object out of the picture and   
         save it as a separate PNG. 
     - Transit app: transit is an app used at the University of Maryland, College Park that allows
-        users to track bus routes and it gives real time locations on the bus. My favourite app feature 
-        is the fact that once you hop onto your bus, you can provide other people with real time information. 
-        For example, you can improve the accuracy of the app by letting it know if you reached in the amount 
-        of time the app specified. You can let other people know how crowded the bus is, or if its a little 
-        late on its route, and the more helpful you are as a passenger, the more points the app rewards you 
-        with. 
+        users to track bus routes and it gives real time locations on the bus. My favourite app 
+        feature is the fact that once you hop onto your bus, you can provide other people with real 
+        time information. For example, you can improve the accuracy of the app by letting it know if 
+        you reached in the amount of time the app specified. You can let other people know how 
+        crowded the bus is, or if its a little late on its route, and the more helpful you are as a 
+        passenger, the more points the app rewards you with. 
     
     My App Idea/ Elevator Pitch
-        Introducting Travl Buddy, the innovative app that digitalizes all your essential travel documents, revolutionizing the way you stay travel-ready. With just a few taps and scans, securely store and manage your passports, green cards, driver's licenses, and more. Say goodbye to the stress of physical documents and welcome a more convenient and efficient way to access your documents anywhere. Whether you're at the airport, the immigration office, US Customs, or you need to identify yourself, TravlBuddy's got you covered. Download Travl Buddy to join the digital revolution, and lets get digital with our travel. 
+        Introducting Travl Buddy, the innovative app that digitalizes all your essential travel 
+        documents, revolutionizing the way you stay travel-ready. With just a few taps and scans, 
+        securely store and manage your passports, green cards, driver's licenses, and more. Say 
+        goodbye to the stress of physical documents and welcome a more convenient and efficient 
+        way to access your documents anywhere. Whether you're at the airport, the immigration 
+        office, US Customs, or you need to identify yourself, TravlBuddy's got you covered. 
+        Download Travl Buddy to join the digital revolution, and lets get digital with our travel. 
     
-        /Users/ishaankatyal/Desktop/Screenshot 2023-07-17 at 09.50.18.png
+        ![GitHub Logo](https://i.ibb.co/ZY4bH4c/Screenshot-2023-07-17-at-09-50-18.png)
 ## Notes
 
 Describe any challenges encountered while building the app.
