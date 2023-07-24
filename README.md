@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1MzIzZDRlaTlld3AzanV1NHYxYTU3MW1iYTVwcWY0b3Z5ZjliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eosrtMYziB5QXkK7uO/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with:
 giphy.com
 
 
@@ -56,7 +56,7 @@ giphy.com
     
 ## Notes
 
--I think the main challenge was getting used to swift concepts and syntax. Its a very different language and can be complex for new users.
+-I think the main challenge was getting used to swift concepts and syntax. Its a very different language and can be complex for new users.  
 -Another challenge was being able to implement creative ideas. I only implemented basic features because I wasn't sure what the expectations were for this assignment. 
 
 ## License
