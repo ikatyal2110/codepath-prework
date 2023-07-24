@@ -53,6 +53,8 @@ giphy.com
         way to access your documents anywhere. Whether you're at the airport, the immigration 
         office, US Customs, or you need to identify yourself, TravlBuddy's got you covered. 
         Download Travl Buddy to join the digital revolution, and lets get digital with our travel. 
+        
+        <img src = 'https://i.ibb.co/ZY4bH4c/Screenshot-2023-07-17-at-09-50-18.png' title = 'Logo' width='' />
     
 ## Notes
 
