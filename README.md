@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - CodePath App
 
 Submitted by: **Ishaan Katyal**
 
-**Name of your app** is an app that... [TODO] 
+**CodePath App** is an app that shows users information about the creator of the app, such as name, University name, and current profession. It also gives users the ability to change background colors as well as text colors while simultaneously triggering sound effects upon clicking of the buttons.  
 
 Time spent: 4.5 hours spent in total
 
