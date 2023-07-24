@@ -21,14 +21,12 @@ Additional functionality:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1MzIzZDRlaTlld3AzanV1NHYxYTU3MW1iYTVwcWY0b3Z5ZjliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eosrtMYziB5QXkK7uO/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+giphy.com
+
 
 ## App Brainstorming (Step 4)
     Favourite App features:
@@ -43,9 +41,9 @@ GIF created with ...
         users to track bus routes and it gives real time locations on the bus. My favourite app 
         feature is the fact that once you hop onto your bus, you can provide other people with real 
         time information. For example, you can improve the accuracy of the app by letting it know if 
-        you reached in the amount of time the app specified. You can let other people know how 
-        crowded the bus is, or if its a little late on its route, and the more helpful you are as a 
-        passenger, the more points the app rewards you with. 
+        you reached your destination in the amount of time the app specified. You can let other people 
+        know how crowded the bus is, or if its a little late on its route, and the more helpful you 
+        are as a passenger, the more points the app rewards you with. 
     
     My App Idea/ Elevator Pitch
         Introducting Travl Buddy, the innovative app that digitalizes all your essential travel  
@@ -56,14 +54,13 @@ GIF created with ...
         office, US Customs, or you need to identify yourself, TravlBuddy's got you covered. 
         Download Travl Buddy to join the digital revolution, and lets get digital with our travel. 
     
-        ![Logo](https://ibb.co/RBrJhrQ)
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ishaan Katyal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
